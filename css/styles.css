@@ -1,0 +1,177 @@
+html {
+    scroll-behavior:smooth;
+}
+body {
+    background: white;
+    font-family: 'Roboto';
+    padding: 0;
+    margin: 0;
+    
+}
+
+.headed {
+    margin-top: 50px;
+    padding: 1% 5%;
+}
+
+.par {
+    padding-top: 3%;
+}
+.navbar-brand {
+    font-family: 'Roboto';
+    font-weight: 900;
+    
+}
+.navbar {
+    background-color: #7AA874;
+    padding: 1% 5%;
+    float:sticky;
+    position: fixed;
+}
+.nav-link:hover {
+    color: #F7DB6A;
+}
+.go {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    border: 50px;
+    border-radius: 10px;
+    background-color: #7AA874;
+}
+.go:hover {
+    color: black;
+}
+.chn {
+    color: #7AA874;
+}
+
+
+#book1 {
+    background-color: #7AA874;
+}
+.book1 {
+    padding: 3% 5%;
+}
+.bookh {
+    margin-bottom: 50px;
+}
+#how {
+    padding: 3% 15%;
+    text-align: center;
+}
+.content h2 {
+    padding-top: 5%;
+    font-family: 'Roboto';
+    font-weight: 800;
+}
+.items {
+    
+    padding: 30px;
+    font-weight: 900;
+    
+}
+.main-content {
+    text-align: center;
+    background-color: #F7DB6A;
+    padding: 0;
+    margin-top: 50px;
+   
+}
+input {
+    line-height: 1; 
+    margin: 1%;
+    flex: 1 1 45rem;
+    padding: 2rem;
+    border: 1px solid black;
+     
+}
+input:hover {
+    border-radius: 5px;
+    background-color: azure;
+    border: 1px solid white;
+}
+button {
+    background-color: #7AA874;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border: 50px;
+    margin: 2%;
+}
+button:hover {
+    background-color: #EBB02D;
+    color: black;
+}
+.ch {
+    padding-top: 30px;
+    background-color: #EBB02D;
+}
+.ch:hover {
+    background-color:  #7AA874;
+    color: white;
+}
+.card-body {
+    background-color:#7AA874;  
+    color: white; 
+}
+.card-body:hover{
+    background-color: #EBB02D;
+    color: black;
+}
+h5 {
+    padding-top: 3%;
+}
+.testimonials {
+    padding: 3% 5%;
+    text-align: center;
+    background-color: #EBB02D;
+}
+.footer {
+    padding: 1% 5%;
+    font-size: medium;
+    font-weight: 400;
+    text-decoration: none;
+}
+.copy {
+    text-align: center;
+    background-color: #7AA874;
+}
+
+.a {
+    text-decoration: none;
+}
+
+#testimonials {
+    
+    text-align: center;
+    background-color:#7AA874;
+    color: #fff;
+    
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.icons {
+    padding: 8px;
+}
+.icons:hover {
+    color:#EBB02D;
+}
+.list {
+    text-decoration: none;
+    color: #000;
+}
+.imagess {
+    width: 80%;
+}
+.imagess:hover {
+    padding: 40px 50px;
+}
