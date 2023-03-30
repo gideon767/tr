@@ -25,8 +25,6 @@ body {
 .navbar {
     background-color: #7AA874;
     padding: 1% 5%;
-    float:sticky;
-    position: fixed;
 }
 .nav-link:hover {
     color: #F7DB6A;
